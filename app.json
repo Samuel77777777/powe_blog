@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "power_blog",
+    "slug": "power_blog",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
